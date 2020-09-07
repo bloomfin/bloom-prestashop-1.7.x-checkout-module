@@ -1,0 +1,1 @@
+# bloom-prestashop-1.7.x-checkout-module
